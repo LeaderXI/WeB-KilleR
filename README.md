@@ -1,4 +1,4 @@
-[IMG_20240614_152943](https://github.com/LeaderXI/X-DDoS-TooL/assets/165747611/1a26b088-bb94-47a2-bcbc-7ad520160d10)
+![IMG_20240614_152943](https://github.com/LeaderXI/X-DDoS-TooL/assets/165747611/1a26b088-bb94-47a2-bcbc-7ad520160d10)
 
 
 # WeB-KilleR TOOL <h1 style="color:red" align="center">Waa Maxay DDOS/DOS ?</h1>
