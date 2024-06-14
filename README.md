@@ -20,8 +20,8 @@
   </pre>
 </div>
 
- ![Uploading IMG_20240614_152943.jpg…]()
- 
+![IMG_20240614_152943](https://github.com/LeaderXI/WeB-KilleR/assets/165747611/d1cdf9e4-ff6e-4a42-a450-cb1168a5aee9)
+
 
  <h6><p align="center">
     Waxaad weerar BruteForce Ku qaadi Kartaa Intaan qaab  <a href="https://github.com/LeaderXI/Xi-BruteForceTooL/blob/main/cmd/supported-attack.txt">Attack.types</a> waxaadna ku qaadi karta intaan oo <a href="https://github.com/LeaderXI/Xi-BruteForceTooL/blob/main/cmd/supported-social.txt">social media platforms </a> Ah
